@@ -1,4 +1,6 @@
 ---
 layout: page
-title: Musings
+title: TShirts
 ---
+redirect_to:
+  - http://www.thelightestyears.tk
