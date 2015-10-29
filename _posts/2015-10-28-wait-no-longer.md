@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Wait NO Longer
+categories: time
 ---
 
 The time has come when waiting can no longer be done
