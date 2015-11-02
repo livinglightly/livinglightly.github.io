@@ -7,25 +7,16 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            'musings of a starseed'
-tagline:          'eye have always been naked'
-description:      'already naked'
+title:            'THE AESTHETIC'
+tagline:          'Streetwear Reviews'
+description:      'Perspectives on streetwear aesthetics and symbolism'
 url:              http://musingsofastarseed.tk
 baseurl:          /
 
 author:
-  name:           'STARSEED'
+  name:           ''
   url:            
 
-jekyll-archives:
-  enabled: []
-  layout: 'archive'
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
 
 paginate:         6
 
