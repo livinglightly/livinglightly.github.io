@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            'be light'
+title:            'being lightly'
 tagline:          'om'
-description:      'light musings'
+description:      'a collection of light musings'
 url:              http://musingsofastarseed.tk
 baseurl:          /
 
