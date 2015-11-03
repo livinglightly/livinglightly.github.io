@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Quotes by Aldous Huxley That Have Inspired the Creation of This Blog
 ---
 
